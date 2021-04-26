@@ -28,6 +28,7 @@ O delay de 700 é para possibilitar a visualização da animação de loading en
 # Screens
 <details>
 <summary>Mobile📱</summary>
+  
 ![screenshot](printScreens/Bem vindo.png)
 
 
