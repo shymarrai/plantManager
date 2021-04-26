@@ -28,9 +28,17 @@ O delay de 700 é para possibilitar a visualização da animação de loading en
 # Screens
 <details>
 <summary>Mobile📱</summary>
-  
-![screenshot](printScreens/Bem vindo.png)
 
+<img src="https://github.com/shymarrai/plantManager/blob/main/printScreens/Splash.png" width="300" height="600">
+<img src="https://github.com/shymarrai/plantManager/blob/main/printScreens/Bem%20vindo.png" width="300" height="600">
+<img src="https://github.com/shymarrai/plantManager/blob/main/printScreens/Começar.png" width="300" height="600">
+<img src="https://github.com/shymarrai/plantManager/blob/main/printScreens/Confirmar%20nome.png" width="300" height="600">
+<img src="https://github.com/shymarrai/plantManager/blob/main/printScreens/Confirmar%20nome%20(preenchido).png" width="300" height="600">
+
+<img src="https://github.com/shymarrai/plantManager/blob/main/printScreens/Escolha%20uma%20planta.png" width="300" height="600">
+<img src="https://github.com/shymarrai/plantManager/blob/main/printScreens/Planta-1.png" width="300" height="600">
+<img src="https://github.com/shymarrai/plantManager/blob/main/printScreens/Minhas%20plantas.png" width="300" height="600">
+<img src="https://github.com/shymarrai/plantManager/blob/main/printScreens/Deletar.png" width="300" height="600">
 
 </details>
 
